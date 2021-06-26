@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'dash-gallery-app'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_43ee1fb1fc1b437c898e08b423c6349d }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_8462baa6e58643e08b1f246e3a6a7ebb }}
