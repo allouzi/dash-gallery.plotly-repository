@@ -47,4 +47,3 @@ and visit http://127.0.0.1:8050/.
 
 
 Please add `MAPBOX_ACCESS_TOKEN` as an environment variable to the app manager.
-"# dash-gallery.plotly-repository" 
